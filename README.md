@@ -4,7 +4,7 @@
 #### 3.这是四级标题
 4.外部网站链接 [百度](https://www.baidu.com/)</br>
 5. ![目录中的图片](u=2942866533,4203113990&fm=15&gp=0.jpg)</br>
-6. [web上的图片](https://img2.baidu.com/it/u=1070003001,653753576&fm=26&fmt=auto&gp=0.jpg)</br>
+6. [web上的图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F1812.img.pp.sohu.com.cn%2Fimages%2Fblog%2F2009%2F11%2F18%2F18%2F8%2F125b6560a6ag214.jpg)</br>
 7. 代码块</br>
   ```
   #include <stdio.h>
